@@ -1,0 +1,5 @@
+# Игнорировать дериктории с фалами:
+venv/*
+temdir/*
+src/__pycache__/*
+tests/__pycache__/*
